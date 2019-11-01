@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/gomoku_ai/static/js/main.885668be.chunk.js",
+    "main.js.map": "/gomoku_ai/static/js/main.885668be.chunk.js.map",
+    "runtime-main.js": "/gomoku_ai/static/js/runtime-main.89fc8e6c.js",
+    "runtime-main.js.map": "/gomoku_ai/static/js/runtime-main.89fc8e6c.js.map",
+    "static/js/2.eb8e77ed.chunk.js": "/gomoku_ai/static/js/2.eb8e77ed.chunk.js",
+    "static/js/2.eb8e77ed.chunk.js.map": "/gomoku_ai/static/js/2.eb8e77ed.chunk.js.map",
+    "index.html": "/gomoku_ai/index.html",
+    "precache-manifest.5be1a34ece08968c211f8dad7d4d472b.js": "/gomoku_ai/precache-manifest.5be1a34ece08968c211f8dad7d4d472b.js",
+    "service-worker.js": "/gomoku_ai/service-worker.js",
+    "static/media/board.png": "/gomoku_ai/static/media/board.42ec9618.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89fc8e6c.js",
+    "static/js/2.eb8e77ed.chunk.js",
+    "static/js/main.885668be.chunk.js"
+  ]
+}
